@@ -6,7 +6,7 @@ public class Restock {
         StdIn.setFile("restock.in");
         StdOut.setFile("restock.out");
 
-        // Uset his file to test restock
+        // Use this file to test restock
         Warehouse warehouse2 = new Warehouse();
         int n = StdIn.readInt();
         for(int i = 0; i < n; i++)
